@@ -26,7 +26,7 @@ require (
 	github.com/pelletier/go-toml v1.9.5
 	github.com/strangelove-ventures/interchaintest/v8 v8.2.1-0.20240419152858-c8b741617cd8
 	github.com/stretchr/testify v1.10.0
-	go.uber.org/zap v1.27.0
+	go.uber.org/zap v1.27.1
 	golang.org/x/mod v0.24.0
 	google.golang.org/grpc v1.72.0
 	google.golang.org/protobuf v1.36.6
